@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+pycache/
+*.py[cod]
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+chat.txt
+summary.txt
